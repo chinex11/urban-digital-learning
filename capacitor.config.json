@@ -1,0 +1,13 @@
+{
+  "appId": "com.urbanenterprise.digitallearning",
+  "appName": "Urban Digital Learning",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#0A0A0F"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "urban-digital-learning",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Urban Digital Learning — micro-learning app for design, office and video software",
+  "scripts": {
+    "sync": "npx cap sync android",
+    "serve": "npx --yes http-server www -p 8080 -c-1"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/app": "^8.0.0",
+    "@capacitor/core": "^8.5.2"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.5.2"
+  }
+}
