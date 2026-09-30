@@ -1,0 +1,31 @@
+URBAN DIGITAL LEARNING · PREFLIGHT CHECKLIST (print)
+
+CONTENT
+[ ] Every name, date, time and price checked against the brief
+[ ] Phone numbers and account numbers read BACKWARDS digit by digit
+[ ] Spelling checked (run spell check + read aloud)
+
+DOCUMENT
+[ ] Correct final size (e.g. A5 = 148 x 210 mm)
+[ ] Bleed set (usually 3 mm — confirm with printer) and backgrounds extend into it
+[ ] All important text/logos inside the safe zone (5 mm+ from trim)
+
+IMAGES
+[ ] 300 PPI at printed size (100-150 PPI OK for large banners)
+[ ] Converted to CMYK / printer's profile
+[ ] No WhatsApp-compressed images
+
+TYPE & COLOUR
+[ ] Fonts embedded or converted to outlines/curves
+[ ] Small text in 100% K black, not rich black
+[ ] Total ink under printer limit (often ~300%)
+
+OUTPUT
+[ ] PDF exported with bleed and crop marks
+[ ] PDF opened and checked at 100% zoom
+[ ] Editable master saved separately (live text)
+
+MY OWN CHECKS (add 3):
+[ ]
+[ ]
+[ ]

@@ -11,14 +11,10 @@
   <div id="app"></div>
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script>
-    window.UDL_TRACKS = [];
-    // Lesson builder: L(title, concept, points[], shortcuts[[key, action]], tip, scenario, steps[], report[], hint?)
-    window.L = function (title, concept, points, shortcuts, tip, scenario, steps, report, hint) {
-      return { title: title, concept: concept, points: points, shortcuts: shortcuts, tip: tip, hint: hint,
-               lab: { scenario: scenario, steps: steps, report: report } };
-    };
-  </script>
+  <script src="data/catalog.js"></script>
+  <script src="data/shortcuts.js"></script>
+  <script src="data/visuals.js"></script>
+  <script src="tracks/fundamentals.js"></script>
   <script src="tracks/coreldraw.js"></script>
   <script src="tracks/photoshop.js"></script>
   <script src="tracks/illustrator.js"></script>

@@ -1,0 +1,10 @@
+URBAN DIGITAL LEARNING · BANNER JOB SPEC
+Client: Kingsway Phones & Accessories
+Item: Flex banner, 10 ft x 4 ft (3048 x 1219 mm), landscape
+Location: Above the shop entrance, viewed from the road (about 5-10 m away)
+Content: Shop name · "Phones · Accessories · Repairs" · phone 0803 111 2222 · logo placeholder
+Working scale: 1:10 (304.8 x 121.9 mm)
+Images: 1500 PPI at 1:10 (= 150 PPI at full size)
+Colour: CMYK · Bleed: 20 mm at full size (2 mm at 1:10)
+Finishing: Eyelets every 60 cm — keep all text at least 100 mm (10 mm at 1:10) from edges
+Output: Print PDF at 1:10 — note "PRINT AT 1000%" in the file name
