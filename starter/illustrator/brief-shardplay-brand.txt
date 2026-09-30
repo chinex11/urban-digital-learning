@@ -1,0 +1,13 @@
+URBAN DIGITAL LEARNING · STARTER BRIEF
+Project: Brand identity — Shardplay
+
+ABOUT: Pay-per-play blockchain arcade. Players pay small amounts of crypto per game,
+  win rewards and climb leaderboards. Tagline: "Play more. Chain more."
+AUDIENCE: Gamers and crypto-curious young adults (18-30), mobile-first, Africa + global
+BRAND WORDS (suggested): playful · fast · trustworthy
+COMPETITORS: Web3 gaming platforms, mobile arcade apps, betting apps (avoid looking like betting!)
+DELIVERABLES: Logo (icon + wordmark), horizontal and stacked lockups, icon-only app mark;
+  palette (global swatches with HEX/RGB/CMYK); type system; one-page brand sheet;
+  logo pack (AI, PDF, SVG, PNG @1x/@2x)
+MUST WORK: 16 px favicon, app icon, dark mode, merch (T-shirts, stickers)
+AVOID: Generic chain-link icons, dollar signs, casino imagery

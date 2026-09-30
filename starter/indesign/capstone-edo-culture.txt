@@ -1,0 +1,15 @@
+URBAN DIGITAL LEARNING · CAPSTONE CLIENT BRIEF (InDesign)
+Client: Edo Culture Quarterly — Issue 1
+
+FORMAT: 16 pages, 210 x 275 mm, saddle-stitched, 3 mm bleed
+PAPER: 250 gsm gloss cover, 115 gsm gloss inside (confirm with printer)
+AUDIENCE: Culture lovers 25-60 in Edo State and the diaspora; many older readers
+FLATPLAN (suggested):
+  1 Cover · 2 Editor's letter · 3 Contents · 4-7 Main feature: "The Bronze Casters of Igun Street"
+  8-9 Photo essay: Oba market · 10-11 Interview: a young Edo musician · 12 Food: Owo soup
+  13 Events calendar · 14 Ad (full page) · 15 Letters & credits · 16 Back cover ad
+MASTHEAD: EDO CULTURE QUARTERLY
+COVERLINES (examples): "Inside Igun Street: the families keeping bronze alive" · "Owo soup, three ways"
+  · "The new sound of Benin" · "Your guide to this season's festivals"
+DELIVERABLES: Packaged INDD + IDML, PDF/X for print, interactive PDF (<10 MB) for digital readers
+PROCESS: v1 (cover + feature) → round 1 → v2 → round 2 → sign-off

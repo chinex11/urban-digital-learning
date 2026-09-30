@@ -1,0 +1,12 @@
+URBAN DIGITAL LEARNING · STARTER BRIEF
+Project: 8-page programme booklet — Edo/Delta Youth Summit 2026
+
+FORMAT: A5 (148 x 210 mm), 8 pages, saddle-stitched, full colour, 3 mm bleed
+THEME: "Rise & Build" — equipping young people for faith, work and leadership
+DATE / VENUE: Saturday, 9:00 AM – 4:00 PM · Conference Hall, Benin City
+PAGE MAP (suggested — you may improve it):
+  1 Cover · 2 Welcome letter · 3 Schedule · 4-5 Speakers spread · 6 Workshops ·
+  7 Sponsors & notes · 8 Back cover (contacts, social handles)
+STYLE: Energetic but organised; 2 fonts max; brand colours: deep green, gold accent, white
+SUPPLIED TEXT: programme-text.txt (welcome letter, schedule, bios, workshops)
+DELIVERABLES: Print PDF with bleed + crop marks; small PDF for WhatsApp; packaged INDD

@@ -1,0 +1,12 @@
+URBAN DIGITAL LEARNING · STARTER BRIEF
+Project: Navigation icon set — Shardplay app
+
+CLIENT: Shardplay — pay-per-play blockchain arcade ("Play more. Chain more.")
+NEEDED ICONS (6): Home · Games · Wallet · Leaderboard · Profile · Settings
+PLATFORM: Mobile web app, bottom navigation bar
+STYLE: Rounded, friendly, playful-tech; outline style with a filled active state
+SYSTEM RULES (you may refine): 24 x 24 px artboards, 2 px padding, 2 px stroke,
+  2 px corner radius, round caps and joins
+STATES: default (neutral grey), active (brand accent, filled), disabled (low contrast)
+DELIVERABLES: 6 icons x 3 states as optimised SVG; one PNG preview sheet
+NAMING: ic-home-24.svg, ic-home-24-active.svg, etc.
