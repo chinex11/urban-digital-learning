@@ -1,0 +1,48 @@
+[debug] [2026-10-01T06:29:12.460Z] ----------------------------------------------------------------------
+[debug] [2026-10-01T06:29:12.462Z] Command:       /opt/node22/bin/node /tmp/claude-0/-home-claude-urban-digital-learning/59fdfd3c-2830-5fd3-8288-450336c411f7/scratchpad/fb/node_modules/.bin/firebase emulators:start --only auth --project demo-udl
+[debug] [2026-10-01T06:29:12.463Z] CLI Version:   15.32.1
+[debug] [2026-10-01T06:29:12.463Z] Platform:      linux
+[debug] [2026-10-01T06:29:12.463Z] Node Version:  v22.22.2
+[debug] [2026-10-01T06:29:12.463Z] Detected Agent: claude-code_2-1-286_agent
+[debug] [2026-10-01T06:29:12.463Z] Time:          Thu Oct 01 2026 07:29:12 GMT+0100 (West Africa Time)
+[debug] [2026-10-01T06:29:12.464Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-10-01T06:29:12.483Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  emulators: Starting emulators: auth {"metadata":{"emulator":{"name":"hub"},"message":"Starting emulators: auth"}}
+[info] i  emulators: Detected demo project ID "demo-udl", emulated services will use a demo configuration and attempts to access non-emulated services for this project will fail. {"metadata":{"emulator":{"name":"hub"},"message":"Detected demo project ID \"demo-udl\", emulated services will use a demo configuration and attempts to access non-emulated services for this project will fail."}}
+[warn] ⚠  hub: Error when trying to check port 4400 on ::1: Error: listen EAFNOSUPPORT: address family not supported ::1:4400 {"metadata":{"emulator":{"name":"hub"},"message":"Error when trying to check port 4400 on ::1: Error: listen EAFNOSUPPORT: address family not supported ::1:4400"}}
+[warn] ⚠  hub: Port 4400 is available on 127.0.0.1 but not ::1. This may cause issues with some clients. {"metadata":{"emulator":{"name":"hub"},"message":"Port 4400 is available on 127.0.0.1 but not ::1. This may cause issues with some clients."}}
+[warn] ⚠  hub: If you encounter connectivity issues, consider switching to a different port or explicitly specifying "host": "<ip address>" instead of hostname in firebase.json {"metadata":{"emulator":{"name":"hub"},"message":"If you encounter connectivity issues, consider switching to a different port or explicitly specifying \"host\": \"<ip address>\" instead of hostname in firebase.json"}}
+[warn] ⚠  logging: Error when trying to check port 4500 on ::1: Error: listen EAFNOSUPPORT: address family not supported ::1:4500 {"metadata":{"emulator":{"name":"logging"},"message":"Error when trying to check port 4500 on ::1: Error: listen EAFNOSUPPORT: address family not supported ::1:4500"}}
+[warn] ⚠  logging: Port 4500 is available on 127.0.0.1 but not ::1. This may cause issues with some clients. {"metadata":{"emulator":{"name":"logging"},"message":"Port 4500 is available on 127.0.0.1 but not ::1. This may cause issues with some clients."}}
+[warn] ⚠  logging: If you encounter connectivity issues, consider switching to a different port or explicitly specifying "host": "<ip address>" instead of hostname in firebase.json {"metadata":{"emulator":{"name":"logging"},"message":"If you encounter connectivity issues, consider switching to a different port or explicitly specifying \"host\": \"<ip address>\" instead of hostname in firebase.json"}}
+[warn] ⚠  auth: Error when trying to check port 9099 on ::1: Error: listen EAFNOSUPPORT: address family not supported ::1:9099 {"metadata":{"emulator":{"name":"auth"},"message":"Error when trying to check port 9099 on ::1: Error: listen EAFNOSUPPORT: address family not supported ::1:9099"}}
+[warn] ⚠  auth: Port 9099 is available on 127.0.0.1 but not ::1. This may cause issues with some clients. {"metadata":{"emulator":{"name":"auth"},"message":"Port 9099 is available on 127.0.0.1 but not ::1. This may cause issues with some clients."}}
+[warn] ⚠  auth: If you encounter connectivity issues, consider switching to a different port or explicitly specifying "host": "<ip address>" instead of hostname in firebase.json {"metadata":{"emulator":{"name":"auth"},"message":"If you encounter connectivity issues, consider switching to a different port or explicitly specifying \"host\": \"<ip address>\" instead of hostname in firebase.json"}}
+[debug] [2026-10-01T06:29:13.171Z] assigned listening specs for emulators {"user":{"hub":[{"address":"127.0.0.1","family":"IPv4","port":4400}],"logging":[{"address":"127.0.0.1","family":"IPv4","port":4500}],"auth":[{"address":"127.0.0.1","family":"IPv4","port":9099}]},"metadata":{"message":"assigned listening specs for emulators"}}
+[debug] [2026-10-01T06:29:13.180Z] Write emulator hub locator at /tmp/hub-demo-udl.json
+[warn] ⚠  emulators: The Emulator UI is not starting because none of the running emulators have a UI component. {"metadata":{"emulator":{"name":"hub"},"message":"The Emulator UI is not starting because none of the running emulators have a UI component."}}
+[debug] [2026-10-01T06:29:18.533Z] Could not find VSCode notification endpoint: TypeError: fetch failed. If you are not running the Firebase SQL Connect VSCode extension, this is expected and not an issue.
+[info] 
+┌─────────────────────────────────────────────────────────────┐
+│ ✔  All emulators ready! It is now safe to connect your app. │
+└─────────────────────────────────────────────────────────────┘
+
+┌────────────────┬────────────────┐
+│ Emulator       │ Host:Port      │
+├────────────────┼────────────────┤
+│ Authentication │ 127.0.0.1:9099 │
+└────────────────┴────────────────┘
+  Emulator Hub host: 127.0.0.1 port: 4400
+  Other reserved ports: 4500
+
+Issues? Report them at https://github.com/firebase/firebase-tools/issues and attach the *-debug.log files.
+ 
+[debug] [2026-10-01T06:29:18.814Z] *** [apiv2] error from fetch(https://firebase-public.firebaseio.com/cli.json, {"headers":{},"method":"GET","dispatcher":{"_events":{},"_eventsCount":0}}): Error: Request was cancelled.
+[warn] ⚠  Unable to fetch the CLI MOTD and remote config. This is not a fatal error, but may indicate an issue with your network connection. 
+[debug] [2026-10-01T06:29:18.815Z] Failed to fetch MOTD FirebaseError: Failed to make request to https://firebase-public.firebaseio.com/cli.json
+[info] i  To verify the email address ada@example.com, follow this link: http://127.0.0.1:9099/emulator/action?mode=verifyEmail&lang=en&oobCode=x-7IeiNR4S357ZpWzPQfB0F5HDSV2FqEdca9VqDw1ilqJEM-X9DacD&apiKey=fake-api-key {"metadata":{"emulator":{"name":"auth"},"message":"To verify the email address ada@example.com, follow this link: http://127.0.0.1:9099/emulator/action?mode=verifyEmail&lang=en&oobCode=x-7IeiNR4S357ZpWzPQfB0F5HDSV2FqEdca9VqDw1ilqJEM-X9DacD&apiKey=fake-api-key"}}
+[info] i  To verify the email address ada@example.com, follow this link: http://127.0.0.1:9099/emulator/action?mode=verifyEmail&lang=en&oobCode=dBwnnrFpLDj84HJGinLVMw3QBLDW3dULNTrgkkT9dbvpwWNNuxjxEY&apiKey=fake-api-key {"metadata":{"emulator":{"name":"auth"},"message":"To verify the email address ada@example.com, follow this link: http://127.0.0.1:9099/emulator/action?mode=verifyEmail&lang=en&oobCode=dBwnnrFpLDj84HJGinLVMw3QBLDW3dULNTrgkkT9dbvpwWNNuxjxEY&apiKey=fake-api-key"}}
+[info] i  To verify the email address tunde@example.com, follow this link: http://127.0.0.1:9099/emulator/action?mode=verifyEmail&lang=en&oobCode=rVBmTgDL95aDixQriQ-hme1ufYLc4OZESxiGbh6tmZ9muYfZVuTI4A&apiKey=fake-api-key {"metadata":{"emulator":{"name":"auth"},"message":"To verify the email address tunde@example.com, follow this link: http://127.0.0.1:9099/emulator/action?mode=verifyEmail&lang=en&oobCode=rVBmTgDL95aDixQriQ-hme1ufYLc4OZESxiGbh6tmZ9muYfZVuTI4A&apiKey=fake-api-key"}}
+[info] i  To verify the email address ada@example.com, follow this link: http://127.0.0.1:9099/emulator/action?mode=verifyEmail&lang=en&oobCode=Y8tvKLd1aKnGoLfDKz2N9pcQ7fe1DIYOEKLL6oEf0E66z7NBPmzF1c&apiKey=fake-api-key {"metadata":{"emulator":{"name":"auth"},"message":"To verify the email address ada@example.com, follow this link: http://127.0.0.1:9099/emulator/action?mode=verifyEmail&lang=en&oobCode=Y8tvKLd1aKnGoLfDKz2N9pcQ7fe1DIYOEKLL6oEf0E66z7NBPmzF1c&apiKey=fake-api-key"}}
+[info] i  To verify the email address tunde@example.com, follow this link: http://127.0.0.1:9099/emulator/action?mode=verifyEmail&lang=en&oobCode=8Nf1va7JfygCFKrzC4kc9OFl1yWAlmtXwYMvhTjHT-smh5wR_DRyVH&apiKey=fake-api-key {"metadata":{"emulator":{"name":"auth"},"message":"To verify the email address tunde@example.com, follow this link: http://127.0.0.1:9099/emulator/action?mode=verifyEmail&lang=en&oobCode=8Nf1va7JfygCFKrzC4kc9OFl1yWAlmtXwYMvhTjHT-smh5wR_DRyVH&apiKey=fake-api-key"}}

@@ -1,0 +1,15 @@
+rules_version = '2';
+// Each student can only read and write their own documents, and only after verifying their email.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isOwner(uid) {
+      return request.auth != null && request.auth.uid == uid && request.auth.token.email_verified == true;
+    }
+    match /users/{uid} {
+      allow read, write: if isOwner(uid);
+      match /{sub=**} {
+        allow read, write: if isOwner(uid);
+      }
+    }
+  }
+}
