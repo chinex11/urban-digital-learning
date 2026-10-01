@@ -1,0 +1,19 @@
+URBAN DIGITAL LEARNING · PROJECT BRIEF (Premiere Pro, Intermediate)
+Client: Edo Culture Quarterly (fictional) — digital edition
+
+DELIVERABLE: 3-minute mini-documentary (3:00-3:30) about a local craftsperson
+  Suggested subjects: a bronze caster, tailor, carver, bead maker, drummer, barber, mechanic, baker
+  (anyone with a skill and a story near you)
+STRUCTURE
+  0:00-0:15 opening image + one strong line   ·   0:15-1:00 who they are
+  1:00-2:00 the challenge and the process      ·   2:00-3:00 what it means; closing image
+SPECS
+  16:9 1920 x 1080, H.264, about -14 LUFS, true peak below -1 dBTP
+  Burned-in captions OR SRT file · lower thirds for every speaker · title card + credits
+  60-second vertical teaser (1080 x 1920)
+MUST
+  Signed release form · clean dialogue · colour matched across shots · no unlicensed music
+REVIEW NOTES (use in the review lesson if you can't get a real viewer)
+  (a) "I don't know who he is until 0:40 — introduce him earlier."
+  (b) "The workshop shots are too dark on my phone."
+  (c) "The ending stops suddenly; give it a moment to breathe."
