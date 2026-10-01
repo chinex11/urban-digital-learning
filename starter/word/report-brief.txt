@@ -1,0 +1,29 @@
+URBAN DIGITAL LEARNING · PROJECT BRIEF (Word, Intermediate)
+Client: Urban Farms — fresh produce boxes, Benin City
+Report title: "Expanding Produce-Box Delivery: 2026 Review & Recommendations"
+Length: 6-10 pages incl. cover, TOC and appendix · A4 · Brand: Green #2E7D32, Cream #FFF8E7
+
+QUESTION THE REPORT MUST ANSWER
+  Should Urban Farms expand delivery from 2 areas to 4 areas in 2027?
+
+DATA — BOXES DELIVERED PER QUARTER (2026)
+  Area          Q1    Q2    Q3    Q4
+  GRA           220   260   410   450
+  Ugbowo        140   150   290   320
+  (trial) Ekenwan 0     0    60    95
+  Total         360   410   760   865
+
+DATA — CUSTOMER SURVEY (n = 120)
+  Would order weekly if delivery was available in my area: 68%
+  Main complaint: late delivery (41%), price (27%), box size (18%), other (14%)
+
+COSTS
+  Extra delivery bike + rider: ₦180,000/month
+  Average profit per box: ₦1,500
+
+KEY FINDINGS TO SHOW
+  - Deliveries rose 85% from Q2 to Q3 (insight chart)
+  - Ekenwan trial grew 58% in one quarter
+  - Late delivery is the top complaint, so expansion needs a second rider
+
+STRUCTURE: Executive summary · Background · Findings · Recommendations · Appendix (survey questions)

@@ -1,0 +1,24 @@
+URBAN DIGITAL LEARNING · PROJECT BRIEF (Word, Beginner)
+Client: Urban Enterprise — print & branding studio, Benin City
+
+GOAL: A branded business document kit the team can reuse every day.
+KIT (4 documents):
+  1. Letterhead template (.dotx) — full header on page 1, slim header on page 2+
+  2. Invoice template — table with Qty, Description, Unit price, Amount, Subtotal, VAT 7.5%, Total
+  3. Business cards — 10 per A4 sheet, front only (name, title, phone, email)
+  4. Compliments slip — A4 cut into 3 (DL size)
+
+SHARED ELEMENTS
+  Logo: use your Fundamentals logo or a simple wordmark "URBAN ENTERPRISE"
+  Colors: Charcoal #1E1E24 · Gold #D4A537 · White
+  Fonts: Headings Montserrat SemiBold (fallback Arial) · Body Calibri 11 pt
+  Contact block (use exactly this everywhere):
+    12 Sapele Road, Benin City, Edo State
+    +234 803 000 1234 · hello@urbanenterprise.ng · urbanenterprise.ng
+  Footer: RC 1234567 · Bank details on invoices only
+
+ACCEPTANCE
+  - All 4 pieces share logo, colors, fonts and the identical contact block
+  - Templates open as new untitled documents (.dotx)
+  - Invoice totals line up on a decimal tab or in table cells, never with spaces
+  - Nothing touches the page edge (office printers can't print to the edge)

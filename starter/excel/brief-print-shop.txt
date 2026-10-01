@@ -1,0 +1,28 @@
+URBAN DIGITAL LEARNING · PROJECT BRIEF (Excel, Beginner)
+Client: Urban Enterprise — print & branding studio, Benin City
+
+DELIVERABLE: One workbook with 3 sheets
+  Inputs  — VAT 7.5%, target margin 45%, bulk discount 10% (orders ≥ ₦100,000), delivery fee ₦3,000
+  Prices  — price list calculated from cost and margin, rounded UP to the nearest ₦50
+  Invoice — reusable invoice: client details, up to 8 lines, subtotal, discount, VAT, delivery, total
+
+PRODUCTS & UNIT COSTS (₦)
+  Code   Product                         Unit        Cost
+  FL-A5  A5 flier, 150 gsm, full colour   per 100     4,200
+  FL-A4  A4 flier, 150 gsm, full colour   per 100     7,500
+  PS-A3  A3 poster, 170 gsm gloss         each          650
+  PS-A2  A2 poster, 170 gsm gloss         each        1,300
+  BC-01  Business cards, 350 gsm matte    per 100     3,800
+  BN-01  Roll-up banner 85 x 200 cm       each       19,500
+  ST-01  Vinyl stickers, die-cut          per 50      6,200
+  DS-01  Logo design (3 concepts)         each       25,000
+
+PRICING RULE: Price = Cost / (1 − Margin), then =CEILING(price, 50)
+
+TEST ORDER (check your invoice against a calculator)
+  Client: Royal Praise Assembly, Ugbowo
+  500 A5 fliers (5 × per 100) · 2 roll-up banners · 10 A2 posters · delivery
+
+INVOICE MUST SHOW: Invoice no. UE-2026-001 · date · due in 7 days · bank details
+  Bank: Example Bank · Urban Enterprise · 0000000000 (placeholder)
+PRINT: one A4 page, portrait, logo top-left, totals right-aligned

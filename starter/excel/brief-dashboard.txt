@@ -1,0 +1,22 @@
+URBAN DIGITAL LEARNING · PROJECT BRIEF (Excel, Intermediate)
+Client: Urban Farms — produce-box delivery, Benin City
+Data: excel/sales-data.csv (all 2026 orders). WARNING: the export has a few
+duplicate orders and some areas typed with extra spaces or lowercase. Clean first.
+
+THE OWNER'S QUESTIONS
+  1. How much did we sell in 2026 (₦ and boxes), and what's the average order?
+  2. Which area and which box type bring in the most money?
+  3. How did sales move month by month? How much did Q3 grow vs Q2?
+  4. Is the Ekenwan trial (from July) worth keeping?
+  5. How much money is still unpaid (Paid = No)?
+
+DASHBOARD SPEC
+  One screen, 16:9 friendly · Brand: Green #2E7D32, Cream #FFF8E7, Charcoal #263238
+  4 KPI cards on top · main monthly chart · area and product charts · Area slicer + date timeline
+  Insight titles on every chart · no 3D, no pies with more than 4 slices
+
+REVIEW NOTES (use in the Review Round lesson)
+  (a) "Show money in ₦ thousands on the cards (e.g. ₦12,450k) — too many digits."
+  (b) "Add the unpaid balance as a 5th KPI and colour it red if above ₦100k."
+  (c) "When I click Ekenwan and pick January the cards show #DIV/0! — fix that."
+  (d) "The product pie is hard to read; use sorted bars."

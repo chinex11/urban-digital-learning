@@ -1,0 +1,20 @@
+URBAN DIGITAL LEARNING · CAPSTONE CLIENT BRIEF (Excel)
+Client: Mama Ngozi's Kitchen (fictional) — local restaurant, Benin City
+Question: "Should I open a second branch at Ugbowo, and when will I get my money back?"
+
+ASSUMPTIONS (put every one on the Inputs sheet)
+  Setup cost (fit-out, equipment, deposit): ₦4,500,000 (month 0)
+  Customers per day at full capacity: 60 · Average spend: ₦1,800 · Open days per month: 26
+  Ramp-up: month 1 = 50%, month 2 = 70%, month 3 = 85%, month 4 onward = 100%
+  Food & packaging cost: 45% of revenue
+  Rent: ₦200,000/month · Staff: 6 × ₦70,000/month · Power, gas & generator: ₦250,000/month
+  Marketing: ₦100,000/month for months 1-3, then ₦50,000/month
+
+THE OWNER WANTS TO KNOW
+  1. Monthly profit and cumulative cash for the first 12 months
+  2. The payback month (when cumulative cash turns positive)
+  3. How many customers per day are needed to break even each month
+  4. What average spend would bring payback forward to month 8
+
+DELIVERABLES: protected .xlsx (Inputs / Calc / Outputs / Instructions) + PDF summary + cover email
+PROCESS: v1 → client round 1 → v2 → client round 2 → sign-off
